@@ -1,0 +1,3 @@
+this is a simple text file. 
+Adding another line.
+Adding another line after commit.
